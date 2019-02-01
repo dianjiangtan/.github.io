@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{167:function(n,t,e){"use strict";e.r(t);var r={data:function(){return{}}},u=e(0),a=Object(u.a)(r,function(){var n=this.$createElement;return(this._self._c||n)("div",[this._v("这是文字header哈哈哈1111")])},[],!1,null,null,null);t.default=a.exports}}]);
